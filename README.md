@@ -1,4 +1,4 @@
-# circuit-finding-algorithm
+# circuit-finding-algorithm scala
 
 Written by NAM YUNWOO (namyunwoo@icloud.com).
 
